@@ -25,32 +25,32 @@
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/plastik.svg" class="ml-12" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/plastik.svg" class="ml-12" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Plastik</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/kain.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/kain.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Kain</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/kaleng.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/kaleng.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Kaleng</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/kelapa.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/kelapa.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Kelapa</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/kaca.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/kaca.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Kaca</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/kardus.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/kardus.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Sampah Kardus</figcaption>
             </li>
         </ul>
@@ -59,19 +59,19 @@
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/botol.svg" class="ml-12" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/botol.svg" class="ml-12" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/minuman.svg" class="ml-16" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/minuman.svg" class="ml-16" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/besar.svg" class="ml-16" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/besar.svg" class="ml-16" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/batok.svg" class="ml-16 mb-12" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/batok.svg" class="ml-16 mb-12" width="160" height="50"></a>
             </li>
         </ul>
     </div>

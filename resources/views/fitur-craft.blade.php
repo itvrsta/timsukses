@@ -25,53 +25,53 @@
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/perabotan.svg" class="ml-12" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/perabotan.svg" class="ml-12" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Perabotan</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/alat sekolah.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/alat sekolah.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Alat Sekolah</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/pakaian.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/pakaian.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Pakaian</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/aksesoris.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/aksesoris.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Aksesoris</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/bunga.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/bunga.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Bunga</figcaption>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/tass.svg" class="ml-16" width="150" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/tass.svg" class="ml-16" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Tas</figcaption>
             </li>
         </ul>
         <br>
-        <p class="ml-[50px] text-xl font-sans">halo</p>
+        <p class="ml-[50px] text-xl font-sans">Rekomendasi</p>
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/tas wanita.svg" class="ml-12" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/tas wanita.svg" class="ml-12" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/tempat pensil.svg" class="ml-16" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/tempat pensil.svg" class="ml-16" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/mangkok.svg" class="ml-16" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/mangkok.svg" class="ml-16" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/tempat tisu.svg" class="ml-16 mb-12" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/tempat tisu.svg" class="ml-16 mb-12" width="160" height="50"></a>
             </li>
         </ul>
     </div>

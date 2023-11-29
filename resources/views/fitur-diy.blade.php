@@ -24,37 +24,37 @@
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/p1.svg" class="ml-[200px]" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p1.svg" class="ml-[200px]" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p2.svg" class="ml-20" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p2.svg" class="ml-20" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p3.svg" class="ml-20" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p3.svg" class="ml-20" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p4.svg" class="ml-20 mb-12" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p4.svg" class="ml-20 mb-12" width="160" height="50"></a>
             </li>
         </ul>
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/p5.svg" class="ml-[200px]" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p5.svg" class="ml-[200px]" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p6.svg" class="ml-20" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p6.svg" class="ml-20" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p7.svg" class="ml-20" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p7.svg" class="ml-20" width="160" height="50"></a>
             </li>
             <li>
                 <br>
-                <a href="fitur-omon" class="avatar"><img src="/img/p8.svg" class="ml-20 mb-10" width="160" height="50"></a>
+                <a href="#" class="avatar"><img src="/img/p8.svg" class="ml-20 mb-10" width="160" height="50"></a>
             </li>
         </ul>
 </body>

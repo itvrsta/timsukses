@@ -49,6 +49,15 @@ Route::get('/kursi-santai', function () {
 Route::get('/tong-sampah', function () {
     return view('tong-sampah');
 });
+Route::get('/alat tulis', function () {
+    return view('kategori-alat tulis');
+});
+Route::get('/perabotan', function () {
+    return view('kategori-perabotan');
+});
+Route::get('/gaya', function () {
+    return view('kategori-gaya');
+});
 
 
 

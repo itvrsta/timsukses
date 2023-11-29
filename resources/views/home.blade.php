@@ -57,17 +57,17 @@
         </li>
         <li>
             <br>
-            <a href="#" class="avatar"><img src="/img/alat tulis.svg" class="ml-[400px]" width="100" height="50"></a>
+            <a href="/alat tulis" class="avatar"><img src="/img/alat tulis.svg" class="ml-[400px]" width="100" height="50"></a>
             <figcaption class="ml-[400px] mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Alat Tulis</figcaption>
         </li>
         <li>
             <br>
-            <a href="#" class="avatar"><img src="/img/peralatan.svg" class="ml-[60px]" width="100" height="50"></a>
+            <a href="/perabotan" class="avatar"><img src="/img/peralatan.svg" class="ml-[60px]" width="100" height="50"></a>
             <figcaption class="ml-[50px] mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Perabotan</figcaption>
         </li>
         <li>
             <br>
-            <a href="#" class="avatar"><img src="/img/gaya.svg" class="ml-[60px]" width="100" height="50"></a>
+            <a href="/gaya" class="avatar"><img src="/img/gaya.svg" class="ml-[60px]" width="100" height="50"></a>
             <figcaption class="ml-[60px] mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Gaya</figcaption>
         </li>
     </ul>

@@ -25,7 +25,7 @@
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/perabotan.svg" class="ml-12" width="150" height="50"></a>
+                <a href="fitur-omon" class="avatar"><img src="/img/perabotan.svg" class="ml-12" width="150" height="50"></a>
                 <figcaption class="ml-12 mt-2 text-sm text-center text-black dark:text-gray-400">Perabotan</figcaption>
             </li>
             <li>
@@ -55,11 +55,11 @@
             </li>
         </ul>
         <br>
-        <p class="ml-[50px] text-xl font-sans">Rekomendasi</p>
+        <p class="ml-[50px] text-xl font-sans">halo</p>
         <ul class="flex flex-wrap">
             <li>
                 <br>
-                <a href="fitur-diy" class="avatar"><img src="/img/tas wanita.svg" class="ml-12" width="160" height="50"></a>
+                <a href="fitur-omon" class="avatar"><img src="/img/tas wanita.svg" class="ml-12" width="160" height="50"></a>
             </li>
             <li>
                 <br>
